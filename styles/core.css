@@ -1,0 +1,68 @@
+﻿html,
+a {
+  color: #1a1a1a;
+}
+
+html {
+  background-color: #f9f9f9; 
+}
+
+@media screen and (min-width: 375px) {
+  body {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media screen and (min-width: 414px) {
+  body {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  body {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+@media screen and (min-width: 760px) and (max-device-width: 1024px) {
+  body {
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
+
+@media screen and (min-device-width: 1152px) {
+  html {
+    background-color: #fcfcfc;
+  }
+
+  body {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (min-width: 480px) and (min-device-width: 1152px) {
+  body {
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+}
+
+@media screen and (min-width: 640px) and (min-device-width: 1152px) {
+  body {
+    padding-left: 72px;
+    padding-right: 72px;
+  }
+}
