@@ -1,9 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Home
+title: Release Engineering
 ---
 
-Release Engineering is a subdiscipline of Software Engineering concerning with releasing software to users.  
+Release Engineering is a subdiscipline of Software Engineering concerned with releasing software to users.  
