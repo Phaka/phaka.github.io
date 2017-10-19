@@ -2,6 +2,15 @@
   max-width: 37.5em;
 }
 
+header h1 {
+  font-size: 16px;
+  font-style: normal;
+}
+
+header h1 a {
+  text-decoration: none;
+}
+
 @media screen and (min-width: 1080px) {
   body {
     max-width: 705px;
