@@ -1,0 +1,11 @@
+baseURL = 'https://www.phaka.org/'
+languageCode = 'en-us'
+title = 'Phaka: Release Engineering'
+copyright = "Werner Strydom"
+disableHugoGeneratorInject = true
+enableGitInfo = true
+enableRobotsTXT = true
+minify = true
+publishDir = "../docs"
+relativeURLs = true
+timeZone = "America/Los_Angeles"
