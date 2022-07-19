@@ -1,6 +1,7 @@
 # Packer Templates
 
 When building software for multiple platforms it actually helps
+
 | System  | Distribution | Version | Architecture | Repository         | Status |
 |---------|--------------|---------|--------------|--------------------|--------|
 | OpenBSD | OpenBSD      | 6.8     | amd64        | OpenBSD-6.8-amd64  | WIP    |
