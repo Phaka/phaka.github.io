@@ -13,6 +13,7 @@ When building software for multiple platforms it actually helps
 |         |              | 22.04   |              | Ubuntu-22.04-amd64 | WIP    |
 |         | Debian       | 11.3.0  |              | Debian-11-amd64    | WIP    |
 |         |              |         | i386         | Debian-11-i386     | WIP    |
+|         | Alma         | 8.6     | x86_64       | Alma-8.6-x86_64    | WIP    |
 | OpenBSD | OpenBSD      | 6.8     | amd64        | OpenBSD-6.8-amd64  | WIP    |
 |         |              |         | i386         | OpenBSD-6.8-i386   | WIP    |
 |         |              | 6.9     | amd64        | OpenBSD-6.9-amd64  | WIP    |
